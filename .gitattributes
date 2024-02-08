@@ -1,0 +1,13 @@
+prebuilt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+recovery filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+AndroidProducts.mk filter=lfs diff=lfs merge=lfs -text
+BoardConfig.mk filter=lfs diff=lfs merge=lfs -text
+device.mk filter=lfs diff=lfs merge=lfs -text
+extract-files.sh filter=lfs diff=lfs merge=lfs -text
+vendorsetup.sh filter=lfs diff=lfs merge=lfs -text
+Android.mk filter=lfs diff=lfs merge=lfs -text
+recovery.fstab filter=lfs diff=lfs merge=lfs -text
+setup-makefiles.sh filter=lfs diff=lfs merge=lfs -text
+twrp_ares.mk filter=lfs diff=lfs merge=lfs -text
